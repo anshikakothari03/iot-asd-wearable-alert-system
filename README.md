@@ -4,12 +4,16 @@ This project presents a wearable IoT system designed to assist individuals with 
 
 The system is built using an ESP32 microcontroller connected to multiple sensors. By combining physiological signals and movement data, the device can detect conditions such as anxiety, restlessness, or unsafe wandering.
 
+![Flowchart](images/flowchart.jpg)
+
 ## Hardware Used
 
 * ESP32 microcontroller
 * MAX30102 pulse oximeter (heart rate monitoring)
 * MPU6500 IMU sensor (movement detection)
 * NEO-6M GPS module (location tracking)
+
+![Hardware Implementation](images/hardware_implementation.jpg)
 
 ## How the System Works
 
